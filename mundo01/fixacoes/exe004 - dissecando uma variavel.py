@@ -1,0 +1,8 @@
+algo = input('Digite algo: ')
+print('Só tem espaços? ', algo.isspace())
+print('É um numéro? ', algo.isnumeric())
+print('É alfabético? ', algo.isalpha())
+print('É alfanumérico?', algo.isalnum())
+print('Está em maiusculas? ', algo.isupper())
+print('Está em minusculas? ', algo.islower())
+print('Está capitalizada? ', algo.istitle())
