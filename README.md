@@ -1,5 +1,5 @@
 # Python3 — Curso em Vídeo
-Anotações e exercícios do curso de Python do professor Gustavo Guanabara.
+Anotações e exercícios do curso de Python 3 do professor Gustavo Guanabara.
 
 ## Mundo 01
 - Introdução ao Mundo da Programação — O que é Python e para que serve, instalação do Python 3, IDLE e PyCharm
@@ -8,3 +8,10 @@ Anotações e exercícios do curso de Python do professor Gustavo Guanabara.
 - Usando Módulos Python — Instalação de módulos externos via `pip`, módulos da biblioteca padrão
 - Condições em Python — Estruturas condicionais com `if` e `else` na prática
 - Adicionando Cores ao Python — Biblioteca de cores para o terminal, formatação visual com exemplos práticos
+
+## Mundo 02
+
+- **Introdução ao Mundo 2** — Estruturas de repetição e condição, revisão do Mundo 01
+- **Condições em Python (if, elif)** — Estruturas condicionais compostas, `elif`, operadores `and`, `or` e `not`, aninhamento de condições
+- **Repetições em Python (for)** — Estrutura de repetição `for`, contadores, função `range()`, listas e laços de repetição
+- **Repetições em Python (while)** — Estrutura de repetição `while`, controle de laços com `break` e `continue`, validação de dados de entrada
